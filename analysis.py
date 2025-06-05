@@ -203,4 +203,4 @@ def save_analysis(analysis_result, filename):
     
     except Exception as e:
         logger.error(f"Fehler beim Speichern des Analyseergebnisses: {str(e)}")
-        raise 
+        raise PortfolioAnalysisError(str(e)) from e

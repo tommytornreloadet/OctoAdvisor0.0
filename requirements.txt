@@ -1,0 +1,14 @@
+#octoadvisor
+
+python-dotenv==1.0.0
+httpx==0.24.1
+python-telegram-bot==13.15
+openai==1.2.0
+krakenex==2.1.0
+pykrakenapi==0.3.1
+jinja2==3.1.2
+
+#dev tools
+
+click
+ccxt

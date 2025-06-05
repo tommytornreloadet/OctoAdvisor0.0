@@ -1,0 +1,13 @@
+Du bist ein erfahrener Krypto-Investment-Berater. Analysiere bitte mein aktuelles Krypto-Portfolio und gib mir folgende Informationen:
+
+1. Eine Zusammenfassung meines Portfolios mit den wichtigsten Positionen
+2. Aktueller Marktzustand für meine Kryptowährungen
+3. Stärken und Schwächen meines Portfolios
+4. Empfehlungen für potenzielle Umschichtungen oder neue Investitionen
+5. Kurzfristige (1-7 Tage) und mittelfristige (1-3 Monate) Prognosen
+
+Hier sind meine aktuellen Portfolio-Daten:
+
+{portfolio_data}
+
+Gib deine Antwort in einer klar strukturierten Form mit Überschriften für die einzelnen Abschnitte. 
